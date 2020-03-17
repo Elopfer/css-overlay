@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className="item">
-        This is the item
+        This is the my project
         <div className="overlay" id="overlayId">
           <div className="overlay-text">This is the overlay</div>
         </div>
